@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T09:07:13.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kuLnG4DNV2Tr_u3fApuV" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T06:51:52.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="stp4mB-4ID3SMtu2TbOj" version="16.1.0" type="github">
   <diagram id="3nIlV7hh3zOHst6qVcws" name="Page-1">
-    <mxGraphModel dx="1824" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,13 +10,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-9" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="90" width="30" height="700" as="geometry" />
+          <mxGeometry x="100" y="90" width="30" height="810" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-9">
-          <mxGeometry x="10" y="480" width="10" height="80" as="geometry" />
+          <mxGeometry x="10" y="480" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-9">
-          <mxGeometry x="10" y="620" width="10" height="80" as="geometry" />
+          <mxGeometry x="10" y="620" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-14" value="创链" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="80" height="650" as="geometry" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-16" value="品牌方" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="90" width="80" height="650" as="geometry" />
+          <mxGeometry x="400" y="90" width="86" height="650" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-16">
           <mxGeometry x="35" y="90" width="10" height="80" as="geometry" />
@@ -73,10 +73,21 @@
           <mxGeometry x="35" y="370" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-17" value="Opensea市场" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="90" width="80" height="850" as="geometry" />
+          <mxGeometry x="860" y="90" width="80" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-88" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-17">
-          <mxGeometry x="35" y="730" width="10" height="80" as="geometry" />
+          <mxGeometry x="35" y="700" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-126" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-17">
+          <mxGeometry x="40" y="800" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-127" value="14. NFT所有者变更为用户B" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="ZsWYTZ6JfVVd5BsISkxy-126" parent="ZsWYTZ6JfVVd5BsISkxy-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="790" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="790" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.21;exitY=0.932;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-20">
           <mxGeometry relative="1" as="geometry">
@@ -94,16 +105,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-55" value="品牌方市场" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="90" width="100" height="940" as="geometry" />
+          <mxGeometry x="560" y="90" width="100" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-55">
           <mxGeometry x="45" y="380" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-62" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-55">
-          <mxGeometry x="45" y="480" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="480" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-96" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-55">
-          <mxGeometry x="45" y="800" width="10" height="130" as="geometry" />
+          <mxGeometry x="45" y="830" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-124" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-55">
+          <mxGeometry x="50" y="540" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-125" value="8. NFT所有者变更为用户A，产品状态为：可提货" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="ZsWYTZ6JfVVd5BsISkxy-124" parent="ZsWYTZ6JfVVd5BsISkxy-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="520" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-131" value="状态通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=1.067;entryY=0.316;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZsWYTZ6JfVVd5BsISkxy-55" target="ZsWYTZ6JfVVd5BsISkxy-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333.9999999999998" y="820" as="sourcePoint" />
+            <mxPoint x="-146" y="820" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-53" target="ZsWYTZ6JfVVd5BsISkxy-56">
           <mxGeometry relative="1" as="geometry" />
@@ -113,25 +141,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-59" target="ZsWYTZ6JfVVd5BsISkxy-62">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.121;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-59" target="ZsWYTZ6JfVVd5BsISkxy-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="362" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-64" value="7. 购买产品，并支付" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-63">
           <mxGeometry x="-0.1382" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-65" value="8. NFT拥有者变更为用户A，产品可提货" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="640" as="sourcePoint" />
-            <mxPoint x="120" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-66" value="平台用户A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="60" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-68" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="605" y="710" width="10" height="170" as="geometry" />
+          <mxGeometry x="605" y="710" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-67" target="ZsWYTZ6JfVVd5BsISkxy-68">
           <mxGeometry relative="1" as="geometry">
@@ -141,98 +167,77 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-71" value="9. 转让NFT至非平台账户B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-69">
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-71" value="9. 提出NFT至公链并上架Opensea" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-69">
           <mxGeometry x="-0.1472" y="-1" relative="1" as="geometry">
             <mxPoint x="33" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-72" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="90" width="30" height="940" as="geometry" />
-        </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-72">
-          <mxGeometry x="10" y="670" width="10" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-77" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0.08;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZsWYTZ6JfVVd5BsISkxy-72" target="ZsWYTZ6JfVVd5BsISkxy-68">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="20" y="720" as="sourcePoint" />
-            <mxPoint x="410" y="720" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-80" value="11. NFT提出平台并上架至Opensea" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-77">
-          <mxGeometry x="0.0355" y="-3" relative="1" as="geometry">
-            <mxPoint x="2" y="-3" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="190" y="90" width="30" height="950" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-95" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-72">
-          <mxGeometry x="10" y="810" width="10" height="130" as="geometry" />
+          <mxGeometry x="10" y="760" width="10" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-73" value="非平台用户B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="165" y="60" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-74" value="10. NFT拥有者变更为用户B" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="780" as="sourcePoint" />
-            <mxPoint x="210" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-76" value="跨链桥" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="90" width="80" height="850" as="geometry" />
+          <mxGeometry x="710" y="90" width="80" height="1020" as="geometry" />
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-91" value="13. 公链NFT铸造，联盟链NFT锁定" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="ZsWYTZ6JfVVd5BsISkxy-90" parent="ZsWYTZ6JfVVd5BsISkxy-76">
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-91" value="11. 公链NFT铸造，联盟链NFT锁定" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="ZsWYTZ6JfVVd5BsISkxy-90" parent="ZsWYTZ6JfVVd5BsISkxy-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45" y="740" as="sourcePoint" />
+            <mxPoint x="45" y="680" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="75" y="740" />
+              <mxPoint x="75" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-101" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-76">
-          <mxGeometry x="35" y="710" width="10" height="100" as="geometry" />
+          <mxGeometry x="35" y="650" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-90" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZsWYTZ6JfVVd5BsISkxy-76">
-          <mxGeometry x="40" y="760" width="10" height="40" as="geometry" />
+          <mxGeometry x="40" y="700" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-85" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="ZsWYTZ6JfVVd5BsISkxy-76">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="620" y="820" as="sourcePoint" />
-            <mxPoint x="740" y="820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-86" value="12. NFT兑换指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-85">
-          <mxGeometry x="0.2192" y="-3" relative="1" as="geometry">
-            <mxPoint x="-11" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.211;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.016;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-90" target="ZsWYTZ6JfVVd5BsISkxy-88">
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-122" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.033;exitY=0.352;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ZsWYTZ6JfVVd5BsISkxy-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="910" as="sourcePoint" />
-            <mxPoint x="810" y="860" as="targetPoint" />
+            <mxPoint x="-94.99999999999966" y="670" as="sourcePoint" />
+            <mxPoint x="34.670000000000186" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-94" value="14. 上架Opensea" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-93">
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-123" value="10. NFT兑换指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-122">
+          <mxGeometry x="-0.3754" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.211;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-90" target="ZsWYTZ6JfVVd5BsISkxy-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="850" as="sourcePoint" />
+            <mxPoint x="810" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-94" value="12. 上架Opensea" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-93">
           <mxGeometry x="0.0527" y="-1" relative="1" as="geometry">
             <mxPoint x="-5" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.057;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-95" target="ZsWYTZ6JfVVd5BsISkxy-96">
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.133;exitY=0.046;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-95" target="ZsWYTZ6JfVVd5BsISkxy-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="950" as="sourcePoint" />
             <mxPoint x="600" y="913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-98" value="15. 申请NFT提回平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-97">
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-98" value="13. 购买NFT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-97">
           <mxGeometry x="0.1425" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-79" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="745" y="910" width="10" height="100" as="geometry" />
+          <mxGeometry x="745" y="940" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-99" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.033;exitY=0.352;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-96" target="ZsWYTZ6JfVVd5BsISkxy-79">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="936" as="sourcePoint" />
-            <mxPoint x="740" y="936" as="targetPoint" />
+            <mxPoint x="620" y="966" as="sourcePoint" />
+            <mxPoint x="740" y="966" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-100" value="16. NFT回兑指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-99">
@@ -241,15 +246,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-106" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="755" y="970" width="10" height="40" as="geometry" />
+          <mxGeometry x="750" y="1000" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-108" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="895" y="930" width="10" height="80" as="geometry" />
+          <mxGeometry x="895" y="960" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-109" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.118;entryY=0.748;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZsWYTZ6JfVVd5BsISkxy-108">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="990" as="sourcePoint" />
-            <mxPoint x="890" y="990" as="targetPoint" />
+            <mxPoint x="770" y="1020" as="sourcePoint" />
+            <mxPoint x="890" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-110" value="18. 资产下架Opensea" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-109">
@@ -257,28 +262,25 @@
             <mxPoint x="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-113" value="操作成功返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="ZsWYTZ6JfVVd5BsISkxy-68">
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-113" value="操作成功返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="880" as="sourcePoint" />
-            <mxPoint x="660" y="880" as="targetPoint" />
+            <mxPoint x="740" y="820" as="sourcePoint" />
+            <mxPoint x="610" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-116" value="状态通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="ZsWYTZ6JfVVd5BsISkxy-72">
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-116" value="状态通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="880" as="sourcePoint" />
-            <mxPoint x="230" y="880" as="targetPoint" />
+            <mxPoint x="600" y="830" as="sourcePoint" />
+            <mxPoint x="120" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-117" value="操作成功返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="ZsWYTZ6JfVVd5BsISkxy-55">
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-117" value="操作成功返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.027;exitY=0.899;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.004;entryY=0.848;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-79" target="ZsWYTZ6JfVVd5BsISkxy-96">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="1000" as="sourcePoint" />
-            <mxPoint x="660" y="1000" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-119" value="状态通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="ZsWYTZ6JfVVd5BsISkxy-72">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="1010" as="sourcePoint" />
-            <mxPoint x="520" y="1010" as="targetPoint" />
+            <mxPoint x="740" y="1030" as="sourcePoint" />
+            <mxPoint x="620" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="1030" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-120" value="由创建搭建的消费品NFT平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -289,11 +291,38 @@
         </mxCell>
         <mxCell id="ZsWYTZ6JfVVd5BsISkxy-107" value="17. 公链NFT销毁，联盟链NFT解锁" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.989;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="ZsWYTZ6JfVVd5BsISkxy-106" parent="1" source="ZsWYTZ6JfVVd5BsISkxy-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="950" as="sourcePoint" />
+            <mxPoint x="760" y="980" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="790" y="950" />
-              <mxPoint x="790" y="970" />
+              <mxPoint x="790" y="980" />
+              <mxPoint x="790" y="1000" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-130" value="NFT变更通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.938;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZsWYTZ6JfVVd5BsISkxy-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="604.9999999999998" y="670" as="sourcePoint" />
+            <mxPoint x="125" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="940" as="sourcePoint" />
+            <mxPoint x="610" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="940" />
+              <mxPoint x="580" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-137" value="15. 注册平台账户，申请提回NFT，并签名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZsWYTZ6JfVVd5BsISkxy-136">
+          <mxGeometry x="-0.1472" y="-1" relative="1" as="geometry">
+            <mxPoint x="33" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZsWYTZ6JfVVd5BsISkxy-138" value="状态通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="1039.17" as="sourcePoint" />
+            <mxPoint x="210" y="1039" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
